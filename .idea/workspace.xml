@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13671640-b0b8-40f3-b7c1-c80e87af1973" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/LinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Diversity/diversity.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/Exercis_Ecommerce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/Pandas_Exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data-Capstone-Projects/.ipynb_checkpoints/Finance Project -checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Capstone-Projects/.ipynb_checkpoints/Finance Project -checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data-Capstone-Projects/911 Calls Data Capstone Project .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Capstone-Projects/911 Calls Data Capstone Project .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data-Capstone-Projects/911.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Capstone-Projects/911.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data-Capstone-Projects/Finance Project - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Capstone-Projects/Finance Project - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data-Capstone-Projects/Finance Project .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Capstone-Projects/Finance Project .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep Learning/Tensorflow Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deep Learning/Tensorflow Basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep Learning/Tensorflow Project Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deep Learning/Tensorflow Project Exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Decision-Trees-and-Random-Forests/Decision Trees and Random Forests in Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Decision-Trees-and-Random-Forests/Decision Trees and Random Forests in Python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors Project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors with Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors with Python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression - Project Exercise -checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression - Project Exercise -checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression with Python-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression with Python-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/Ecommerce Customers" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/Ecommerce_Customers.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/Linear Regression with Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Linear-Regression/Linear Regression with Python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Logistic-Regression/Logistic Regression Project - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Logistic-Regression/Logistic Regression Project - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Logistic-Regression/Logistic Regression Project .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Logistic-Regression/Logistic Regression Project .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Logistic-Regression/Logistic Regression with Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Logistic-Regression/Logistic Regression with Python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Recommender-Systems/u.data" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Recommender-Systems/u.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine Learning Sections/Recommender-Systems/u.item" beforeDir="false" afterPath="$PROJECT_DIR$/Machine Learning Sections/Recommender-Systems/u.item" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Crash-Course/Python Crash Course.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Crash-Course/Python Crash Course.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Exercise -checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/.ipynb_checkpoints/Numpy Exercise -checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/NumPy Arrays.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/NumPy Arrays.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Data Input and Output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Data Input and Output.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/DataFrames.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/DataFrames.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Groupby.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Groupby.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Introduction to Pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Introduction to Pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Merging, Joining, and Concatenating .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Merging, Joining, and Concatenating .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Missing Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Missing Data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Operations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/EcommercePurchases.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases Exercise .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise- Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise- Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Series.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Series.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Matplotlib/Advanced Matplotlib Concepts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Matplotlib/Advanced Matplotlib Concepts.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Matplotlib/Matplotlib Concepts Lecture.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Matplotlib/Matplotlib Concepts Lecture.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Matplotlib/Matplotlib Exercises .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Matplotlib/Matplotlib Exercises .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Built-in Data Visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Built-in Data Visualization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Plotly and Cufflinks/Plotly and Cufflinks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Plotly and Cufflinks/Plotly and Cufflinks.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Seaborn Exercises - Solutions-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/.ipynb_checkpoints/Seaborn Exercises - Solutions-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Categorical plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Categorical plots.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Distribution Plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Distribution Plots.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Grids.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Grids.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Matrix Plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Matrix Plots.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Regression Plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Regression Plots.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Seaborn Exercises - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Seaborn Exercises - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Seaborn Exercises .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Visualization/Seaborn/Seaborn Exercises .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Welcome to the Course.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Welcome to the Course.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="K Nearest Neighbors Project.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors Project.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Finance Project -checkpoint.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data-Capstone-Projects/.ipynb_checkpoints/Finance Project -checkpoint.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python Crash Course.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python Crash Course Exercises .ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises .ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Titantic_analysis.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine Learning Sections/Logistic-Regression/Titantic_analysis.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python Crash Course Exercises - Solutions.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises - Solutions.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lambda expressions .ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Big-Data-and-Spark/Lambda expressions .ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Big-Data-and-Spark/example.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="example2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Big-Data-and-Spark/example2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Python-Crash-Course/Python Crash Course.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="30" />
+    <option name="y" value="-27" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Big-Data-and-Spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-Capstone-Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-Capstone-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine Learning Sections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine Learning Sections" type="462c0819:PsiDirectoryNode" />
+              <item name="K-Nearest-Neighbors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine Learning Sections" type="462c0819:PsiDirectoryNode" />
+              <item name="Logistic-Regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine Learning Sections" type="462c0819:PsiDirectoryNode" />
+              <item name="Principal-Component-Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Diversity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-Crash-Course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-for-Data-Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-for-Data-Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="NumPy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13671640-b0b8-40f3-b7c1-c80e87af1973" name="Default" comment="" />
+      <created>1511787213894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511787213894</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34260616" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors Project.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data-Capstone-Projects/.ipynb_checkpoints/Finance Project -checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning Sections/Logistic-Regression/Titantic_analysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises - Solutions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Big-Data-and-Spark/Lambda expressions .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Big-Data-and-Spark/example.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Big-Data-and-Spark/example2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning Sections/Logistic-Regression/Logistic Regression Project .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Diversity/diversity.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data-Capstone-Projects/911 Calls Data Capstone Project .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data-Capstone-Projects/Finance Project .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Big-Data-and-Spark/Lambda expressions .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Big-Data-and-Spark/example.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Big-Data-and-Spark/example2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises - Solutions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data-Capstone-Projects/.ipynb_checkpoints/Finance Project -checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning Sections/Logistic-Regression/Titantic_analysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data-Capstone-Projects/911.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine Learning Sections/K-Nearest-Neighbors/K Nearest Neighbors Project.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
